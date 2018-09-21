@@ -1,0 +1,24 @@
+_repo: Under-the-Red-Dragon-A-Novel_53874
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Grant, James
+    birthdate: 1822
+    deathdate: 1887
+    gutenberg_agent_id: '8949'
+    url: http://www.gutenberg.org/2009/agents/8949
+description: ''
+gutenberg_issued: '2017-01-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53874'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Crimean War, 1853-1856 -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'Under the Red Dragon: A Novel'
+url: http://www.gutenberg.org/ebooks/53874
